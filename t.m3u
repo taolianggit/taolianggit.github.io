@@ -405,8 +405,6 @@ http://140.207.241.3:8080/live/program/live/xfchd/4000000/mnf.m3u8
 http://39.134.19.234:6610/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="6585" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cpd.png" group-title="综合频道",茶频道
 http://39.134.19.234:6610/yinhe/2/ch00000090990000002305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="6244" tvg-logo="http://n.ysyz.top:99/wuchixialiu/qsjl.png" group-title="综合频道",求索纪录
-http://182.151.211.171:808/hls/122/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/bjiptvdy.png" group-title="综合频道",北京IPTV淘电影
 http://39.134.135.81/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/index.m3u8?servicetype=1&icpid=88888888&accounttype=1&limitflux=-1&limitdur=-1&GuardEncType=2&accountinfo=OMDVq6b4lEslJm1UnEjrD67bT%2BdBi%2FstmegbNVdYPJSeBmMWSNPD7Wrrjb2ZDi7Um5UxWiZupPnRfM4wLeS74RrZe%2BRE99EyWRk%2B%2Fh2ZwKeBjD%2BfZ9Mz5UmtqpVNJkd9dPTPolsaS4II0YdOjxvNng%3D%3D%3A20201004145232%2C60D21CCCB8A5%2C112.64.2.198%2C20201004145232%2C10000100000000050000000003887498%2CA23CC1CD0AC72C120DCED3BED1AC1863%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C17%2C%2C2%2CEND
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/kakushaoer.png" group-title="综合频道",卡酷少儿
@@ -785,28 +783,6 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cable_Live_News.png" group-title="港澳台[测试不保稳]",有线直播新闻台
 https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 tvg-id="126" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbfc.png" group-title="港澳台[测试不保稳]",翡翠台
-http://iptv.tvfix.org/hls/jade.m3u8
-#EXTINF:-1 tvg-id="416" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbj2.png" group-title="港澳台[测试不保稳]",J2
-http://iptv.tvfix.org/hls/j2.m3u8
-#EXTINF:-1 tvg-id="130" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbxw.png" group-title="港澳台[测试不保稳]",无线新闻
-http://iptv.tvfix.org/hls/inews.m3u8
-#EXTINF:-1 tvg-id="127" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbmz.png" group-title="港澳台[测试不保稳]",明珠台
-http://iptv.tvfix.org/hls/pearl.m3u8
-#EXTINF:-1 tvg-id="133" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbwxcj.png" group-title="港澳台[测试不保稳]",无线财经
-http://iptv.tvfix.org/hls/finance.m3u8
-#EXTINF:-1 tvg-id="7118" tvg-logo="http://n.ysyz.top:99/wuchixialiu/xgkds.png" group-title="港澳台[测试不保稳]",香港开电视
-http://iptv.tvfix.org/hls/opentv.m3u8
-#EXTINF:-1 tvg-id="408" tvg-logo="http://n.ysyz.top:99/wuchixialiu/viutv.png" group-title="港澳台[测试不保稳]",viutv
-http://iptv.tvfix.org/hls/viutv.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/viutv.png" group-title="港澳台[测试不保稳]",viutvsix
-http://iptv.tvfix.org/hls/viutv6.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk31.png" group-title="港澳台[测试不保稳]",RTHK31
-http://iptv.tvfix.org/hls/rthk31.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk32.png" group-title="港澳台[测试不保稳]",RTHK32
-http://iptv.tvfix.org/hls/rthk32.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbxh.png" group-title="港澳台[测试不保稳]",TVB星河
-http://iptv.tvfix.org/hls/tvbxh.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ChannelVHD.png" group-title="港澳台[测试不保稳]",Channel V
 http://iptv.tvfix.org/hls/channelv.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nowxwt.png" group-title="港澳台[测试不保稳]",NOW新闻台
@@ -819,22 +795,6 @@ http://livetv.dnsfor.me/channel.12.m3u8
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/c+.png" group-title="港澳台[测试不保稳]",香港C+
 http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-U1-NO/03.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="http://n.ysyz.top:99/wuchixialiu/mydyt.jpg" group-title="港澳台[测试不保稳]",美亚电影台(粤语)
-http://iptv.tvfix.org/hls/mydy.m3u8
-#EXTINF:-1 tvg-id="145" tvg-logo="http://n.ysyz.top:99/wuchixialiu/mydyt.jpg" group-title="港澳台[测试不保稳]",美亚电影台
-http://iptv.tvfix.org/hls/mydy2.m3u8
-#EXTINF:-1 tvg-id="6036" tvg-logo="http://n.ysyz.top:99/wuchixialiu/NationalGeographic_taiwan.png" group-title="港澳台[测试不保稳]",国家地理频道(台湾)
-http://iptv.tvfix.org/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-id="6037" tvg-logo="http://n.ysyz.top:99/wuchixialiu/discoveryhd.png" group-title="港澳台[测试不保稳]",探索发现频道
-http://iptv.tvfix.org/hls/discovery.m3u8
-#EXTINF:-1 tvg-id="6083" tvg-logo="http://n.ysyz.top:99/wuchixialiu/hbo.png" group-title="港澳台[测试不保稳]",HBO HD
-http://iptv.tvfix.org/hls/hbo2.m3u8
-#EXTINF:-1 tvg-id="6039" tvg-logo="http://n.ysyz.top:99/wuchixialiu/AnimalPlanettw.png" group-title="港澳台[测试不保稳]",动物星球
-http://iptv.tvfix.org/hls/animal.m3u8
-#EXTINF:-1 tvg-id="7238" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ANIMAX.png" group-title="港澳台[测试不保稳]",Animax
-http://iptv.tvfix.org/hls/animax.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-logo="http://n.ysyz.top:99/wuchixialiu/TVBS_news.png" group-title="港澳台[测试不保稳]",TVBS新闻台
-http://iptv.tvfix.org/hls/tvbsnews.m3u8
 #EXTINF:-1 tvg-id="6108" tvg-logo="http://n.ysyz.top:99/wuchixialiu/SETInews.png" group-title="港澳台[测试不保稳]",三立财经新闻台
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/hyxwt.png" group-title="港澳台[测试不保稳]",寰宇新闻台
@@ -862,13 +822,13 @@ http://seb.sason.top/ptv/ftv.php?id=yj
 #EXTINF:-1 tvg-id="6043" tvg-logo="http://n.ysyz.top:99/wuchixialiu/EBCYoYoTV.png" group-title="港澳台[测试不保稳]",东森幼幼台
 http://59.125.101.187:8515/http/61.221.81.94:8088/hls/63/805/ch09.m3u8
 #EXTINF:-1 tvg-id="7135" tvg-logo="http://n.ysyz.top:99/wuchixialiu/twms.png" group-title="港澳台[测试不保稳]",民视
-http://211.23.114.106:8504/http/61.221.81.94:8088/hls/73/815/ch49.m3u8
+http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1 tvg-id="6026" tvg-logo="http://n.ysyz.top:99/wuchixialiu/twts.png" group-title="港澳台[测试不保稳]",台视
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch46.m3u8
+rtmp://59.124.75.157:1935/sat/tv071
 #EXTINF:-1 tvg-id="6028" tvg-logo="http://n.ysyz.top:99/wuchixialiu/twzs.png" group-title="港澳台[测试不保稳]",中视
-http://211.23.114.106:8502/http/61.221.81.94:8088/hls/72/814/ch47.m3u8
+rtmp://59.124.75.157:1935/sat/tv091
 #EXTINF:-1 tvg-id="6030" tvg-logo="http://n.ysyz.top:99/wuchixialiu/twhs.png" group-title="港澳台[测试不保稳]",华视
-http://211.23.114.106:8503/http/61.221.81.94:8088/hls/72/814/ch48.m3u8
+rtmp://59.124.75.157:1935/sat/tv111
 #EXTINF:-1 tvg-id="6090" tvg-logo="http://n.ysyz.top:99/wuchixialiu/weilaity.png" group-title="港澳台[测试不保稳]",纬来体育台
 rtmp://59.124.75.157:1935/sat/tv721
 #EXTINF:-1 tvg-id="6095" tvg-logo="http://n.ysyz.top:99/wuchixialiu/weilairb.png" group-title="港澳台[测试不保稳]",纬来日本台
@@ -1181,8 +1141,6 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/arirang.png" group-title="海外其它I[测试不保稳]",ArirangTV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="7110" tvg-logo="http://n.ysyz.top:99/wuchixialiu/nhkworldp.png" group-title="日韩[测试不保稳]",NHKWorldPremium
-http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/NHKWorld.png" group-title="日韩[测试不保稳]",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nippon.jpg" group-title="日韩[测试不保稳]",Nippon TV
