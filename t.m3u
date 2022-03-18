@@ -567,6 +567,34 @@ http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
 http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/fzse.png" group-title="地方频道",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
+#EXTINF:-1 tvg-id="1430" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdxw.png" group-title="地方频道",山东新闻频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221226077/index.m3u8
+#EXTINF:-1 tvg-id="1427" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdql.png" group-title="地方频道",山东齐鲁频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221226045/index.m3u8
+#EXTINF:-1 tvg-id="1429" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdnk.png" group-title="地方频道",山东农科频道
+http://39.136.48.4:8089/PLTV/88888888/224/3221226018/index.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdwl.png" group-title="地方频道",山东文旅频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:-1 tvg-id="1433" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdzy.png" group-title="地方频道",山东综艺频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221225855/index.m3u8
+#EXTINF:-1 tvg-id="1434" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdsh.png" group-title="地方频道",山东生活频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221225841/index.m3u8
+#EXTINF:-1 tvg-id="1428" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdty.png" group-title="地方频道",山东体育频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221226075/index.m3u8
+#EXTINF:-1 tvg-id="1431" tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdse.png" group-title="地方频道",山东少儿频道
+http://39.136.48.2:8089/PLTV/88888888/224/3221226195/index.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdwf1.png" group-title="地方频道",潍坊1台
+http://stream.wfcmw.cn/1/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdwf2.png" group-title="地方频道",潍坊2台
+http://stream.wfcmw.cn/2/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdwf3.png" group-title="地方频道",潍坊3台
+http://stream.wfcmw.cn/3/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sdwf4.png" group-title="地方频道",潍坊4台
+http://stream.wfcmw.cn/4/sd/live.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sddzxwzh.png" group-title="地方频道",德州新闻综合
+https://jsylivealone302.iqilu.com/dezhou/dezhou_tv01.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sddzjjsh.png" group-title="地方频道",德州经济生活
+https://jsylivealone302.iqilu.com/dezhou/dezhou_tv02.m3u8
 #EXTINF:-1 tvg-id="2056" tvg-logo="http://n.ysyz.top:99/wuchixialiu/scxw.png" group-title="地方频道",四川新闻频道
 http://182.151.211.171:808/hls/52/index.m3u8
 #EXTINF:-1 tvg-id="2055" tvg-logo="http://n.ysyz.top:99/wuchixialiu/scjj.png" group-title="地方频道",四川经济频道
@@ -685,64 +713,6 @@ http://39.136.12.3:6410/PLTV/88888888/224/3221226104//01.m3u8?fmt=ts2hls
 http://39.136.12.3:6410/PLTV/88888888/224/3221225675/1//01.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cctvdszn.png" group-title="央视付费频道",电视指南
 http://39.136.12.3:6410/PLTV/88888888/224/3221226120/1//01.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="566" tvg-name="iHOT爱院线" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyx.png" group-title="IHOT系列",iHOT爱院线
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000030630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="567" tvg-name="iHOT爱科幻" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikh.png" group-title="IHOT系列",iHOT爱科幻
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000020630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="568" tvg-name="iHOT爱浪漫" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailm.png" group-title="IHOT系列",iHOT爱浪漫
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000040630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="569" tvg-name="iHOT爱喜剧" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixj.png" group-title="IHOT系列",iHOT爱喜剧
-http://39.134.30.217/0000000000001000/1.m3u8?Contentid=6000000006000010630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="570" tvg-name="iHOT爱悬疑" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aixy.png" group-title="IHOT系列",iHOT爱悬疑
-http://39.135.189.198:80/0000000000001001/1.m3u8?Contentid=6000000006000050630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="571" tvg-name="iHOT爱经典" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijd.png" group-title="IHOT系列",iHOT爱经典
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000060630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="572" tvg-name="iHOT爱江湖" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijh.png" group-title="IHOT系列",iHOT爱江湖
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000110630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="573" tvg-name="iHOT爱电竞" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidj.png" group-title="IHOT系列",iHOT爱电竞
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000230630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="574" tvg-name="iHOT爱赛车" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisc.png" group-title="IHOT系列",iHOT爱赛车
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000240630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="575" tvg-name="iHOT爱体育" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aity.png" group-title="IHOT系列",iHOT爱体育
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000290630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="576" tvg-name="iHOT爱探索" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aits.png" group-title="IHOT系列",iHOT爱探索
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000300630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="577" tvg-name="iHOT爱奇谈" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqt.png" group-title="IHOT系列",iHOT爱奇谈
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000270630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="578" tvg-name="iHOT爱玩具" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiwj.png" group-title="IHOT系列",iHOT爱玩具
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000220630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="579" tvg-name="iHOT爱世界" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aisj.png" group-title="IHOT系列",iHOT爱世界
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000210630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="580" tvg-name="iHOT爱怀旧" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aihj.png" group-title="IHOT系列",iHOT爱怀旧
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000260630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="581" tvg-name="iHOT爱旅行" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailx.png" group-title="IHOT系列",iHOT爱旅行
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="582" tvg-name="iHOT爱军武" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijw.png" group-title="IHOT系列",iHOT爱军武
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000170630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="583" tvg-name="iHOT爱幼教" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiyj.png" group-title="IHOT系列",iHOT爱幼教
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000180630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="584" tvg-name="iHOT爱解密" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijm.png" group-title="IHOT系列",iHOT爱解密
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000200630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="585" tvg-name="iHOT爱谍战" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidz.png" group-title="IHOT系列",iHOT爱谍战
-http://39.135.189.195:80/0000000000001001/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="586" tvg-name="iHOT爱历史" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ails.png" group-title="IHOT系列",iHOT爱历史
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000150630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="587" tvg-name="iHOT爱猎奇" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ailq.png" group-title="IHOT系列",iHOT爱猎奇
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000190630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="588" tvg-name="iHOT爱都市" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aids.png" group-title="IHOT系列",iHOT爱都市
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000070630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="589" tvg-name="iHOT爱科学" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aikx.png" group-title="IHOT系列",iHOT爱科学
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000160630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="590" tvg-name="iHOT爱美食" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aims.png" group-title="IHOT系列",iHOT爱美食
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="591" tvg-name="iHOT爱时尚" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiss.png" group-title="IHOT系列",iHOT爱时尚
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000140630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="592" tvg-name="iHOT爱青春" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aiqc.png" group-title="IHOT系列",iHOT爱青春
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000100630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="593" tvg-name="iHOT爱家庭" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aijt.png" group-title="IHOT系列",iHOT爱家庭
-http://39.135.189.197:80/0000000000001001/1.m3u8?Contentid=6000000006000090630&livemode=1&stbId=3&channel-id=wasusyt
-#EXTINF:-1 tvg-id="594" tvg-name="iHOT爱动漫" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aidm.png" group-title="IHOT系列",iHOT爱动漫
-http://39.135.189.196:80/0000000000001001/1.m3u8?Contentid=6000000006000280630&livemode=1&stbId=3&channel-id=wasusyt
 #EXTINF:-1 tvg-id="141" tvg-logo="http://n.ysyz.top:99/wuchixialiu/fenghuangzhongwen.png" group-title="港澳台[测试不保稳]",凤凰中文
 http://59.44.10.113:9901/tsfile/live/1079_1.m3u8
 #EXTINF:-1 tvg-id="142" tvg-logo="http://n.ysyz.top:99/wuchixialiu/fenghuangzixun.png" group-title="港澳台[测试不保稳]",凤凰资讯
@@ -754,29 +724,37 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 tvg-id="143" tvg-logo="http://n.ysyz.top:99/wuchixialiu/fenghuangxianggang.png" group-title="港澳台[测试不保稳]",凤凰香港
 http://59.44.10.113:9901/tsfile/live/1080_1.m3u8
 #EXTINF:-1 tvg-id="126" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbfc.png" group-title="港澳台[测试不保稳]",翡翠台
-https://cdn.hkyoutv.com/hls/81/index.m3u8
+http://iptv.tvfix.org/hls/jade.m3u8
 #EXTINF:-1 tvg-id="416" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbj2.png" group-title="港澳台[测试不保稳]",J2
-https://cdn.hkyoutv.com/hls/82/index.m3u8
+http://iptv.tvfix.org/hls/j2.m3u8
+#EXTINF:-1 tvg-id="416" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbj2.png" group-title="港澳台[测试不保稳]",J2-第二声道
+http://iptv.tvfix.org/hls/j22.m3u8
 #EXTINF:-1 tvg-id="130" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbxw.png" group-title="港澳台[测试不保稳]",无线新闻
-https://cdn.hkyoutv.com/hls/83/index.m3u8
+http://iptv.tvfix.org/hls/inews.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbmz.png" group-title="港澳台[测试不保稳]",明珠台
-https://cdn.hkyoutv.com/hls/84/index.m3u8
+http://iptv.tvfix.org/hls/pearl.m3u8
 #EXTINF:-1 tvg-id="133" tvg-logo="http://n.ysyz.top:99/wuchixialiu/tvbwxcj.png" group-title="港澳台[测试不保稳]",无线财经
-https://cdn.hkyoutv.com/hls/85/index.m3u8
-#EXTINF:-1 tvg-id="7117" tvg-logo="http://n.ysyz.top:99/wuchixialiu/xggjcjt.png" group-title="港澳台[测试不保稳]",香港国际财经台
-https://cdn.hkyoutv.com/hls/76/index.m3u8
+http://iptv.tvfix.org/hls/finance.m3u8
 #EXTINF:-1 tvg-id="7118" tvg-logo="http://n.ysyz.top:99/wuchixialiu/xgkds.png" group-title="港澳台[测试不保稳]",香港开电视
-https://cdn.hkyoutv.com/hls/77/index.m3u8
+http://iptv.tvfix.org/hls/opentv.m3u8
 #EXTINF:-1 tvg-id="408" tvg-logo="http://n.ysyz.top:99/wuchixialiu/viutv.png" group-title="港澳台[测试不保稳]",viutv
-https://cdn.hkyoutv.com/hls/99/index.m3u8
+http://iptv.tvfix.org/hls/viutv.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/viutv.png" group-title="港澳台[测试不保稳]",viutvsix
-https://cdn.hkyoutv.com/hls/96/index.m3u8
+http://iptv.tvfix.org/hls/viutv6.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk31.png" group-title="港澳台[测试不保稳]",RTHK31
-https://cdn.hkyoutv.com/hls/31/index.m3u8
+http://iptv.tvfix.org/hls/rthk31.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk32.png" group-title="港澳台[测试不保稳]",RTHK32
-https://cdn.hkyoutv.com/hls/32/index.m3u8
-#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk33.png" group-title="港澳台[测试不保稳]",RTHK33
-https://cdn.hkyoutv.com/hls/33/index.m3u8
+http://iptv.tvfix.org/hls/rthk32.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ChannelVHD.png" group-title="港澳台[测试不保稳]",Channel V
+http://iptv.tvfix.org/hls/channelv.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/xkws.png" group-title="港澳台[测试不保稳]",星空卫视
+http://iptv.tvfix.org/hls/startv.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk31.png" group-title="港澳台[测试不保稳]",RTHK31
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rthk32.png" group-title="港澳台[测试不保稳]",RTHK32
+http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 tvg-id="7118" tvg-logo="http://n.ysyz.top:99/wuchixialiu/xgkds.png" group-title="港澳台[测试不保稳]",香港开电视
+http://teslagram.com/live/channel_77.m3u8
 #EXTINF:-1 tvg-id="7122" tvg-logo="http://n.ysyz.top:99/wuchixialiu/Cable_News.png" group-title="港澳台[测试不保稳]",有线新闻台
 https://api.leonardpark.dev/live/icable/109
 #EXTINF:-1 tvg-id="7119" tvg-logo="http://n.ysyz.top:99/wuchixialiu/cable_Finance.png" group-title="港澳台[测试不保稳]",有线财经资讯台
@@ -791,6 +769,16 @@ http://livetv.dnsfor.me/channel.4.m3u8
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nowsportsprime.png" group-title="港澳台[测试不保稳]",NOW SPORTS PRIME
 http://livetv.dnsfor.me/channel.12.m3u8
+#EXTINF:-1 tvg-id="6036" tvg-logo="http://n.ysyz.top:99/wuchixialiu/NationalGeographic_taiwan.png" group-title="港澳台[测试不保稳]",国家地理频道(台湾)
+http://iptv.tvfix.org/hls/natlgeo.m3u8
+#EXTINF:-1 tvg-id="6037" tvg-logo="http://n.ysyz.top:99/wuchixialiu/discoveryhd.png" group-title="港澳台[测试不保稳]",探索发现频道
+http://iptv.tvfix.org/hls/discovery.m3u8
+#EXTINF:-1 tvg-id="6039" tvg-logo="http://n.ysyz.top:99/wuchixialiu/AnimalPlanettw.png" group-title="港澳台[测试不保稳]",动物星球
+http://iptv.tvfix.org/hls/animal.m3u8
+#EXTINF:-1 tvg-id="7238" tvg-logo="http://n.ysyz.top:99/wuchixialiu/ANIMAX.png" group-title="港澳台[测试不保稳]",Animax
+http://iptv.tvfix.org/hls/animax.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-logo="http://n.ysyz.top:99/wuchixialiu/TVBS_news.png" group-title="港澳台[测试不保稳]",TVBS新闻台
+https://raw.githubusercontent.com/LiuYi0526/IPTV/YTlive/tvbsnews.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/xgdt.png" group-title="港澳台[测试不保稳]",香港电台视像新闻直播
 https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/c+.png" group-title="港澳台[测试不保稳]",香港C+
@@ -861,6 +849,10 @@ https://live4.tdm.com.mo/ch3/_definst_/ch3.live/chunklist_w969835654.m3u8
 https://live4.tdm.com.mo/ch2/_definst_/ch2.live/chunklist_w1174887667.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nhkhysj.png" group-title="海外新闻I[测试不保稳]",NHK华语视界
 https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/rt.png" group-title="海外新闻I[测试不保稳]",今日俄罗斯
+http://iptv.tvfix.org/hls/rt.m3u8
+#EXTINF:-1 tvg-id="664" tvg-logo="http://n.ysyz.top:99/wuchixialiu/bbcworldnews.png" group-title="海外新闻I[测试不保稳]",BBCWorldNews
+http://iptv.tvfix.org/hls/bbcnews.m3u8
 #EXTINF:-1 tvg-id="664" tvg-logo="http://n.ysyz.top:99/wuchixialiu/bbcworldnews.png" group-title="海外新闻I[测试不保稳]",BBCWorldNews
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/545/index.m3u8
 #EXTINF:-1 tvg-id="7183" tvg-logo="http://n.ysyz.top:99/wuchixialiu/aljazeera.png" group-title="海外新闻I[测试不保稳]",aljazeera
@@ -873,6 +865,8 @@ http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/1087/index.m3u8
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/1081/index.m3u8
 #EXTINF:-1 tvg-id="742" tvg-logo="http://n.ysyz.top:99/wuchixialiu/SKYNEWS.png" group-title="海外新闻I[测试不保稳]",Sky News UK
 https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+#EXTINF:-1 tvg-id="6023" tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNN.png" group-title="海外新闻I[测试不保稳]",CNN
+http://iptv.tvfix.org/hls/cnn.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNN.png" group-title="海外新闻I[测试不保稳]",CNN
 http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/6538/index.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNN.png" group-title="海外新闻I[测试不保稳]",CNN
@@ -1141,6 +1135,8 @@ http://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b800000_t
 http://210.210.155.35/dr9445/h/h144/01.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/arirang.png" group-title="海外其它I[测试不保稳]",ArirangTV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="7110" tvg-logo="http://n.ysyz.top:99/wuchixialiu/nhkworldp.png" group-title="日韩[测试不保稳]",NHKWorldPremium
+http://iptv.tvfix.org/hls/nhkworldpremium.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/NHKWorld.png" group-title="日韩[测试不保稳]",NHKWorld
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nippon.jpg" group-title="日韩[测试不保稳]",Nippon TV
@@ -1188,435 +1184,435 @@ http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/5512.png" group-title="日韩[测试不保稳]",한국선거방송
 http://necgokr2-724.acs.wecandeo.com/ms/2528/724/index_1.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbsnews.png" group-title="海外新闻II[测试不保稳]",NBC HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1081/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1081/index.m3u8
 #EXTINF:-1 tvg-id="664" tvg-logo="http://n.ysyz.top:99/wuchixialiu/bbcworldnews.png" group-title="海外新闻II[测试不保稳]",BBCWorldNews
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/545/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/545/index.m3u8
 #EXTINF:-1 tvg-id="6023" tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNN.png" group-title="海外新闻II[测试不保稳]",CNN
 #EXT-X-STREAM-INF:BANDWIDTH=1001
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6499/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6499/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6538/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6538/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNN.png" group-title="海外新闻II[测试不保稳]",CNN International Europe
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/842/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/842/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cbcnews.png" group-title="海外新闻II[测试不保稳]",CBC News Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6442/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6442/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BNN.png" group-title="海外新闻II[测试不保稳]",BNN Bloomberg HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6465/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6465/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvnews.png" group-title="海外新闻II[测试不保稳]",CTV News Channel HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6468/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6468/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/msnbc.png" group-title="海外新闻II[测试不保稳]",MSNBC
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6470/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6470/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/headlinenews.png" group-title="海外新闻II[测试不保稳]",Headline News HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6483/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6483/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/Euronews.png" group-title="海外新闻II[测试不保稳]",Euronews
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNBC.png" group-title="海外新闻II[测试不保稳]",CNBC HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/962/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/962/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cp24.png" group-title="海外新闻II[测试不保稳]",CP 24 CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6501/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6501/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/Eurosport1HD.png" group-title="海外体育II[测试不保稳]",EUROSPORTS 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/228/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/228/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySport1.png" group-title="海外体育II[测试不保稳]",SKY SPORTS 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2478/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2478/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySport2.png" group-title="海外体育II[测试不保稳]",SKY SPORTS 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2479/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2479/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportF1.png" group-title="海外体育II[测试不保稳]",SKY SPORTS F1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2483/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2483/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports1.png" group-title="海外体育II[测试不保稳]",beIN SPORTS 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2499/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2499/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports2.png" group-title="海外体育II[测试不保稳]",beIN SPORTS 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2500/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2500/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports3.png" group-title="海外体育II[测试不保稳]",beIN SPORTS 3 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2501/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2501/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BTSport1.png" group-title="海外体育II[测试不保稳]",BT SPORT 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2505/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2505/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BTSport2.png" group-title="海外体育II[测试不保稳]",BT SPORT 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2506/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2506/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ELEVENSPORTS1PT.png" group-title="海外体育II[测试不保稳]",ELEVEN SPORTS 1 HD PT
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2531/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2531/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ELEVENSPORTS1PT.png" group-title="海外体育II[测试不保稳]",ELEVEN SPORTS 2 HD PT
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2532/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2532/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/Eurosport1HD.png" group-title="海外体育II[测试不保稳]",EUROSPORTS 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/5075/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/5075/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/Eurosport2HD.png" group-title="海外体育II[测试不保稳]",EUROSPORTS 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/5076/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/5076/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports2.png" group-title="海外体育II[测试不保稳]",ELEVEN 2
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6082/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6082/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/elevensports1.png" group-title="海外体育II[测试不保稳]",ELEVEN 1
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6083/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6083/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports1.png" group-title="海外体育II[测试不保稳]",beIN Sports 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6123/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6123/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports3.png" group-title="海外体育II[测试不保稳]",beIN SPORTS 3 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6124/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6124/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports4.png" group-title="海外体育II[测试不保稳]",beIN Sports 4 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6125/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6125/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports5.png" group-title="海外体育II[测试不保稳]",beIN Sports 5 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6126/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6126/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports6.png" group-title="海外体育II[测试不保稳]",beIN Sports 6 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6127/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6127/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports7.png" group-title="海外体育II[测试不保稳]",beIN Sports 7 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6128/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6128/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports8.png" group-title="海外体育II[测试不保稳]",beIN Sports 8 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6129/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6129/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports9.png" group-title="海外体育II[测试不保稳]",beIN Sports 9 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6130/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6130/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports10.png" group-title="海外体育II[测试不保稳]",beIN Sports 10 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6131/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6131/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/bein.png" group-title="海外体育II[测试不保稳]",beIN Sports 11 HD QA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6132/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6132/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/beINSports2.png" group-title="海外体育II[测试不保稳]",beIN Sports 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6133/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6133/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/bein.png" group-title="海外体育II[测试不保稳]",beIN Series HD 1
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6138/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6138/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nfln.png" group-title="海外体育II[测试不保稳]",NFL Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6424/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6424/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet ONE HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6438/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6438/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet Ontario HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6439/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6439/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tsn4.png" group-title="海外体育II[测试不保稳]",TSN 4 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6445/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6445/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tsn4.png" group-title="海外体育II[测试不保稳]",TSN 4
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6455/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6455/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet 360 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6462/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6462/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet East HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6477/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6477/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet West HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6478/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6478/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sportsnet.png" group-title="海外体育II[测试不保稳]",Sportsnet Pacific HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6479/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6479/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nfln.png" group-title="海外体育II[测试不保稳]",NFL Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6480/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6480/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbcgolf.png" group-title="海外体育II[测试不保稳]",Golf Channel HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6481/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6481/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/CNBC.png" group-title="海外体育II[测试不保稳]",CNBC
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6482/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6482/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbatvcanada.png" group-title="海外体育II[测试不保稳]",NBA TV Canada CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6491/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6491/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/mlbnetwork.png" group-title="海外体育II[测试不保稳]",MLB Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6512/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6512/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tsn1.png" group-title="海外体育II[测试不保稳]",TSN 1 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6521/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6521/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tsn3.png" group-title="海外体育II[测试不保稳]",TSN 3 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6522/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6522/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/CBS.png" group-title="海外体育II[测试不保稳]",CBS Buffalo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6534/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6534/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/NBC.png" group-title="海外体育II[测试不保稳]",NBC Buffalo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6535/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6535/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/FOX.png" group-title="海外体育II[测试不保稳]",FOX Buffalo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6537/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6537/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ufcfightpass.png" group-title="海外体育II[测试不保稳]",UFC FIGHT PASS HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6554/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6554/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BTSPORTESPN.png" group-title="海外体育II[测试不保稳]",BT SPORT ESPN HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6563/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6563/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BTSPORT3.png" group-title="海外体育II[测试不保稳]",BT SPORT 3 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6564/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6564/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbatv.png" group-title="海外体育II[测试不保稳]",NBA TV
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6838/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6838/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nhl.png" group-title="海外体育II[测试不保稳]",NHL Network US
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7225/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7225/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbatv.png" group-title="海外体育II[测试不保稳]",NBA HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7226/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7226/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/FOXSPORTS1.png" group-title="海外体育II[测试不保稳]",FOX SPORTS 1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7322/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7322/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/FOXSPORTS2.png" group-title="海外体育II[测试不保稳]",FOX SPORTS 2 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7323/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7323/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/CBSSPORTSNETWORK.png" group-title="海外体育II[测试不保稳]",CBS SPORTS NETWORK HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7324/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7324/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/msg.png" group-title="海外体育II[测试不保稳]",MSG US
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7325/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7325/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nbcsn.png" group-title="海外体育II[测试不保稳]",NBC SPORTS NETWORK US
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7327/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7327/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/arenasport.png" group-title="海外体育II[测试不保稳]",Arena Sport 6 HD HR
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7334/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7334/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportPREMIERLEAGUE.png" group-title="海外体育II[测试不保稳]",SKY SPORTS PREMIER LEAGUE HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7335/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7335/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportFOOTBALL.png" group-title="海外体育II[测试不保稳]",SKY SPORTS FOOTBALL HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7336/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7336/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skysportsmainevent.png" group-title="海外体育II[测试不保稳]",SKY SPORTS MAIN EVENT UK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7337/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7337/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportARENA.png" group-title="海外体育II[测试不保稳]",SKY SPORTS ARENA HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7338/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7338/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportMIX.png" group-title="海外体育II[测试不保稳]",SKY SPORTS MIX HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7339/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7339/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skysports.png" group-title="海外体育II[测试不保稳]",SKY SPORTS NFL UK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7340/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7340/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skysportsracing.png" group-title="海外体育II[测试不保稳]",SKY SPORTS RACING UK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7341/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7341/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportF1.png" group-title="海外体育II[测试不保稳]",SKY SPORTS F1 HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7342/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7342/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportCRICKET.png" group-title="海外体育II[测试不保稳]",SKY SPORTS CRICKET HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7343/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7343/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skysportsgolf.png" group-title="海外体育II[测试不保稳]",SKY SPORTS GOLF UK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7344/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7344/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/SkySportACTION.png" group-title="海外体育II[测试不保稳]",SKY SPORTS ACTION HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7345/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7345/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tv2sport.png" group-title="海外体育II[测试不保稳]",TV 2 SPORT HD DK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7355/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7355/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sonychannel.png" group-title="海外影视[测试不保稳]",Sony Channel HD orig
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/9035/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/9035/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/scifi.png" group-title="海外影视[测试不保稳]",Sony Sci-Fi orig
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/9125/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/9125/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/bbcamerica.png" group-title="海外影视[测试不保稳]",BBC America
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1092/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1092/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/hbo.png" group-title="海外影视[测试不保稳]",HBO HD RO
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6986/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6986/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/fxm.png" group-title="海外影视[测试不保稳]",FXM en
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1106/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1106/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/citytv.png" group-title="海外影视[测试不保稳]",City TV Toronto HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6429/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6429/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/fx.png" group-title="海外影视[测试不保稳]",FXHD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6435/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6435/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/showcase.png" group-title="海外影视[测试不保稳]",Showcase HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6449/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6449/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvdrama.png" group-title="海外影视[测试不保稳]",CTV Drama HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6450/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6450/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvcomedy.png" group-title="海外影视[测试不保稳]",CTV Comedy HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6454/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6454/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvsci-fi.png" group-title="海外影视[测试不保稳]",CTV SCI-FI HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6459/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6459/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/abcspark.png" group-title="海外影视[测试不保稳]",ABC Spark CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6466/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6466/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/lifetime.png" group-title="海外影视[测试不保稳]",Lifetime HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6484/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6484/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sky.png" group-title="海外影视[测试不保稳]",Sky Select UK
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2474/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2474/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skycinemaaction.png" group-title="海外影视[测试不保稳]",Sky Cinema Action HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2482/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2482/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skycinema.png" group-title="海外影视[测试不保稳]",Sky Cinema HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2484/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2484/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/DisneyCinemagic.png" group-title="海外影视[测试不保稳]",Disney Cinemagic HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2485/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2485/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skyatlantic.png" group-title="海外影视[测试不保稳]",Sky Atlantic HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2488/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2488/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skycinemafamily.png" group-title="海外影视[测试不保稳]",Sky Cinema Family HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2489/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2489/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/skycinemanostalgie.png" group-title="海外影视[测试不保稳]",Sky Cinema Nostalgie DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2490/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2490/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/sky.png" group-title="海外影视[测试不保稳]",Sky Cinema Comic-Helden DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2493/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2493/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/bbccanada.png" group-title="海外影视[测试不保稳]",BBC Canada CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6487/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6487/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/hbo3.png" group-title="海外影视[测试不保稳]",HBO 3 HD RO
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6987/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6987/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/homeofhbo.png" group-title="海外影视[测试不保稳]",Amedia Premium HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/229/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/229/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/gametv.png" group-title="海外影视[测试不保稳]",Game TV CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6476/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6476/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/yes.png" group-title="海外影视[测试不保稳]",Yes TV HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6431/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6431/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cmt.png" group-title="海外影视[测试不保稳]",CMT Canada CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6448/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6448/index.m3u8
 #EXTINF:-1 group-title="海外影视[测试不保稳]",MovieTime HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6486/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6486/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/treehouse.png" group-title="海外儿童[测试不保稳]",Treehouse HD CA
 #EXT-X-STREAM-INF:BANDWIDTH=1001
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6471/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6471/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6502/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6502/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/DisneyJunior.png" group-title="海外儿童[测试不保稳]",Disney Junior CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6489/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6489/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/Disney.png" group-title="海外儿童[测试不保稳]",Disney Channel HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6490/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6490/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/disneyxd.png" group-title="海外儿童[测试不保稳]",Disney XD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6503/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6503/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/mezzolive.png" group-title="海外音乐II[测试不保稳]",Mezzo live HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/208/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/208/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/mtvclub.png" group-title="海外音乐II[测试不保稳]",MTV Club
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/558/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/558/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/mezzolive.png" group-title="海外音乐II[测试不保稳]",Mezzo live HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/707/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/707/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/mtv.png" group-title="海外音乐II[测试不保稳]",MTV HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6461/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6461/index.m3u8
 EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/BBCEarth.png" group-title="海外其它II[测试不保稳]",BBCEarth
-http://ipalytvsuda.russtv.net/iptv/VM727494WDTBB3/7058/index.m3u8
+http://ipalytvsuda.russtv.net/iptv/7NVLY27H7B4L5N/7058/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nationalgeographic.png" group-title="海外其它II[测试不保稳]",National Geographic HD RO
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6991/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6991/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nationalgeographic.png" group-title="海外其它II[测试不保稳]",National Geographic HD
 #EXT-X-STREAM-INF:BANDWIDTH=1001
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/10023/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/10023/index.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=1002
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/230/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/230/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/discoveryhd.png" group-title="海外其它II[测试不保稳]",Discovery Channel HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/227/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/227/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/HistoryChannel.png" group-title="海外其它II[测试不保稳]",History
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/231/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/231/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tlc.png" group-title="海外其它II[测试不保稳]",TLC HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/232/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/232/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/discoveryhd.png" group-title="海外其它II[测试不保稳]",Discovery Channel HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/227/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/227/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tlc.png" group-title="海外其它II[测试不保稳]",TLC
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1105/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1105/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tlc.png" group-title="海外其它II[测试不保稳]",TLC HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6446/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6446/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/discoveryhd.png" group-title="海外其它II[测试不保稳]",Discovery Channel HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6452/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6452/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/HistoryChannel.png" group-title="海外其它II[测试不保稳]",History
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6453/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6453/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/DTOUR.png" group-title="海外其它II[测试不保稳]",DTour HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6463/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6463/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ZDF.png" group-title="海外其它II[测试不保稳]",ZDF HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6059/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6059/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/foodnetwork.png" group-title="海外其它II[测试不保稳]",Food Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6464/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6464/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/E.png" group-title="海外其它II[测试不保稳]",E! Entertainment HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6469/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6469/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/natgeowild.png" group-title="海外其它II[测试不保稳]",NatGeo Wild HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6473/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6473/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/HistoryChannel.png" group-title="海外其它II[测试不保稳]",History Television CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6520/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6520/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tlc.png" group-title="海外其它II[测试不保稳]",TLC CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6524/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6524/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/nationalgeographic.png" group-title="海外其它II[测试不保稳]",NatGeo HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7255/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7255/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/AnimalPlanet.png" group-title="海外其它II[测试不保稳]",Animal Planet HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7257/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7257/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tbs.jpg" group-title="海外其它II[测试不保稳]",TBS
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1103/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1103/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ae.png" group-title="海外其它II[测试不保稳]",A&E CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6419/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6419/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/omni1.png"group-title="海外其它II[测试不保稳]",OMNI.1 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6428/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6428/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/omni2.png"group-title="海外其它II[测试不保稳]",OMNI.2 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6434/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6434/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/usanetwork.png" group-title="海外其它II[测试不保稳]",USA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1101/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1101/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tnt.png" group-title="海外其它II[测试不保稳]",TNT
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1102/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1102/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cbs.png" group-title="海外其它II[测试不保稳]",CBS Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6420/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6420/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvtwo.png" group-title="海外其它II[测试不保稳]",CTV Two Atlantic CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6423/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6423/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tv5.png" group-title="海外其它II[测试不保稳]",TV5 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6493/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6493/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/hgtv.png" group-title="海外其它II[测试不保稳]",HGTV Canada CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6525/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6525/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/tv5.png" group-title="海外其它II[测试不保稳]",TV5 CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6531/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6531/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/msg.png" group-title="海外其它II[测试不保稳]",MSG 2 US
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7326/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7326/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cbctoronto.png" group-title="海外其它II[测试不保稳]",CBC Toronto CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6497/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6497/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/amc.png" group-title="海外其它II[测试不保稳]",AMC CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6510/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6510/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/cbctoronto.png" group-title="海外其它II[测试不保稳]",CBC Toronto HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6513/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6513/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/globaltoronto.png" group-title="海外其它II[测试不保稳]",Global Toronto HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6427/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6427/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/oln.png" group-title="海外其它II[测试不保稳]",OLN HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6447/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6447/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/ctvtoronto.png" group-title="海外其它II[测试不保稳]",CTV Toronto CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6496/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6496/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/HLN.png" group-title="海外其它II[测试不保稳]",HLN CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6500/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6500/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/travel.png" group-title="海外其它II[测试不保稳]",Travel Channel HD
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/233/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/233/index.m3u8
 #EXTINF:-1 tvg-logo="http://n.ysyz.top:99/wuchixialiu/.png" group-title="海外其它II[测试不保稳]",HDL
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/226/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/226/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",泰国PBS3
 http://thaipbs-live.cdn.byteark.com/live-en/playlist_720p/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",越南ANTVHD
 http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Slice HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6451/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6451/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Adult Swim HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6540/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6540/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Canal Discovery HD PL
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6102/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6102/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Nat Geo Wild HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/7256/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/7256/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",VH1 European
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/536/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/536/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",MTV 80s
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/724/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/724/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",MTV 90s
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/1038/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/1038/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CBC Oshawa CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6421/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6421/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CBC St. John's
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6422/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6422/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",ICI RDI HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6425/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6425/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",TV Ontario HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6426/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6426/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",TSC HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6436/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6436/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",TCTV2 CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6437/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6437/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",YTV HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6441/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6441/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",W Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6443/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6443/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",MuchMusicHD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6444/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6444/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Peachtree TV HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6457/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6457/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Turner Classic Movies HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6458/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6458/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Family HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6460/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6460/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Vision TV CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6467/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6467/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CHRGD HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6472/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6472/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Family Jr. HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6474/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6474/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",OWN HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6475/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6475/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",NatGeo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6485/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6485/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",DIY Network CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6488/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6488/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",TSN 2 HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6492/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6492/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CPAC English CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6494/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6494/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Makeful CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6495/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6495/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",HLN CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6500/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6500/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CP 24 CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6501/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6501/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",ABC Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6507/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6507/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Turner Classic Movies CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6509/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6509/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",American Movie Classics HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6514/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6514/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",ICI Radio-Canada Télé CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6515/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6515/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",WNYO Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6516/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6516/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",WNLO Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6517/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6517/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",PBS Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6518/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6518/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",FOX Buffalo CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6519/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6519/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",CPAC French CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6523/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6523/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Showcase CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6526/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6526/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Peachtree CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6527/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6527/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",SSP Promotion Channel HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6528/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6528/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Aboriginal Peoples Television Network HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6529/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6529/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",ICI RDI CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6530/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6530/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Unis TV HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6532/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6532/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",ABC Buffalo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6536/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6536/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",PBS Buffalo HD CA
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/6539/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/6539/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Sky Krimi DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2491/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2491/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Sky Arts HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2494/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2494/index.m3u8
 #EXTINF:-1 group-title="海外其它II[测试不保稳]",Spiegel Geschichte HD DE
-http://tdgu3cz8.rostelekom.xyz/iptv/VM727494WDTBB3/2566/index.m3u8
+http://tdgu3cz8.rostelekom.xyz/iptv/7NVLY27H7B4L5N/2566/index.m3u8
